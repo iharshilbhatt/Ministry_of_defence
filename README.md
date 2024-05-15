@@ -3,9 +3,9 @@ Ministry of defence
 
 Developers:
 
-1) Prince Kakkad
-2) Brijesh Palta
-3) Harshil Bhatt
+1) Harshil Bhatt
+2) Prince Kakkad
+
 
 ----------------------------------------------------
 
@@ -57,8 +57,5 @@ Admin Panel Login(Team):
 Username: Harshil
 Password: Harshil@123
 
-Admin Panel Login(Team):
-Username: Brijesh
-Password: Brijesh@123
 
 ----------------------------------------------------
